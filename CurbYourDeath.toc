@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: Curb your Death
+## Author: Omegabiscuit
+## Version:.1 
+
+
+
+CurbYourDeath.lua
